@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/cada/PycharmProjects/NN/nn_model.tfl"
+all_model_checkpoint_paths: "/home/cada/PycharmProjects/NN/nn_model.tfl"
